@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281759684158",
+    "project_id": "myresepbook",
+    "storage_bucket": "myresepbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281759684158:android:e2ee436e704c144df2a36f",
+        "android_client_info": {
+          "package_name": "com.example.mybookresep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhiOrv4JZdlgQslDryVBN5PH0iK_6CpFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
